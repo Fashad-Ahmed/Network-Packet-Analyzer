@@ -1,0 +1,25 @@
+
+
+--------------------------------------------------------------interface0 info----------------------------------------------------------
+interfaceNumber:0
+Description:\Device\NPF_{2D67544F-109C-4A8A-802C-0B28108A7648}/Realtek PCIe FE Family Controller}
+Datlink Name:EN10MB/Ethernet}
+MAC address:
+
+--------------------------------------------------------------interface1 info----------------------------------------------------------
+interfaceNumber:1
+Description:\Device\NPF_{555F28BF-EFF0-4B08-8773-856BF7BAC746}/Microsoft}
+Datlink Name:EN10MB/Ethernet}
+MAC address:
+
+--------------------------------------------------------------interface2 info----------------------------------------------------------
+interfaceNumber:2
+Description:\Device\NPF_{2258ECDE-50DD-441D-80F2-3C004028E338}/Microsoft}
+Datlink Name:EN10MB/Ethernet}
+MAC address:
+
+--------------------------------------------------------------interface3 info----------------------------------------------------------
+interfaceNumber:3
+Description:\Device\NPF_{C81124EF-D6AF-47CF-8959-381EC081BDC4}/Microsoft}
+Datlink Name:EN10MB/Ethernet}
+MAC address:
