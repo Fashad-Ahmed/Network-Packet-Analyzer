@@ -33,7 +33,7 @@ import static jpcap.MACMod.macMasterFile;
 
 /**
  *
- * @Fashad-Ahmed @FasihUrRehman
+ * @Fashad-Ahmed 
  */
 
 public final class MainProgram {
